@@ -1,0 +1,12 @@
+.venv/
+.env
+candidate_profile.md
+__pycache__/
+*.pyc
+.vscode/
+*.csv
+*.xlsx
+*.log
+.vagas_analisadas.csv
+vagas_analisadas.csv
+vagas_analisadas_backup_*.csv
